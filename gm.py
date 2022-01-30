@@ -34,12 +34,12 @@ try:
                                                                                                                           
 """)
 
-	print ("")
-	print ("")
-	print ("")
-	print ("")
-	print ("")
-	print ("")
+	print ("create by : Tomleng")
+	print ("run spam : Termux")
+	print ("Contact Discord : TomlengX#1771")
+	print ("git clone https://github.com/Minato17K/sms-spam3api.git")
+	print ("cd sms-spam3api")
+	print ("Credit : ! 17K")
 	phone = input("\033[95m เบอร์ : \033[0m")
 	num=int(input("\033[95m จำนวน : \033[0m"))
 
