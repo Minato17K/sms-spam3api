@@ -10,11 +10,3 @@ cd spam-sms3api
 
 
 python gm.py
-
-
-
-FB : ปิยะวัฒน์ ทวีคำ 👽🔥
-
-
-
-YT : Piyawat Taweekum 🧠🩸
